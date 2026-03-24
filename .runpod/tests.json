@@ -36,6 +36,10 @@
       {
         "key": "MODEL_NAME",
         "value": "HuggingFaceTB/SmolLM2-135M-Instruct"
+      },
+      {
+        "key": "ENFORCE_EAGER",
+        "value": "true"
       }
     ]
   }
