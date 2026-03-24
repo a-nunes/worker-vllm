@@ -35,7 +35,7 @@
     "env": [
       {
         "key": "MODEL_NAME",
-        "value": "Qwen/Qwen3.5-9B"
+        "value": "HuggingFaceTB/SmolLM2-135M-Instruct"
       }
     ]
   }
